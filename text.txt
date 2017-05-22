@@ -1,0 +1,3 @@
+hello this is text file we will get into it
+for now remember that ruby is awesome programing language
+though it is not as popular as its counterparts still i love it
